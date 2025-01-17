@@ -6,8 +6,6 @@ This repository contains various projects and examples that utilize **Numpy** fo
 
 - **Data Analysis with Numpy:** Explore using Numpy to work with arrays, and matrices, and perform mathematical operations.
 - **Visualizations with Seaborn:** Learn how to create beautiful and informative visualizations using Seaborn, built on top of Matplotlib.
-- **Sample Datasets:** Various datasets, including common ones like Iris and Stock Market Data, are used for demonstrations.
-- 
 
 ## How to Use
 1. Clone the repository:

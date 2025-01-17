@@ -1,4 +1,4 @@
-# Numpy-Seaborn-Exploration 
+# Numpy-Seaborn-Exploration
 
 This repository contains various projects and examples that utilize **Numpy** for numerical computations and **Seaborn** for data visualization. The focus is on demonstrating the power of these libraries through exploratory data analysis, visualizations, and numerical operations.
 
@@ -14,3 +14,8 @@ To use this repository, you'll need to have **Python** installed along with the 
 
 ```bash
 pip install numpy seaborn matplotlib pandas
+
+## How to Use
+1. Clone the repository:
+   ```bash
+   https://github.com/Mallikarjun-B-Patil/Numpy-Seaborn-Exploration.git
